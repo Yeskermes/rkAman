@@ -1,0 +1,52 @@
+table {
+        font-family: arial, sans-serif;
+        width: 100%;
+        height: 100%;
+    }
+    
+    td,th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 15px;
+    }
+    
+    th {
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    td.b {
+        background-color: #577F92;
+        color: white;
+    }
+    
+    td {
+        width: 5%;
+        height: 5%;
+    }
+    
+    .a {
+        text-align: right;
+        width: 0.1%;
+    }
+    
+    td.a {
+        border: none;
+    }
+    .c{
+        background-color:#7FFFD4; 
+        text-align:center; 
+        font-family: Times New Roman, Times, serif;
+        font-size: 40px  ;
+    }
+    .d{
+        background-color:#DAA520; 
+        text-align:center; 
+        font-family: Times New Roman, Times, serif;
+        font-size: 40px;
+        color:black; 
+        white-space: pre;
+    }
